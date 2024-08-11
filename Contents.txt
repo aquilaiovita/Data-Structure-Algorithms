@@ -1,0 +1,39 @@
+Basic Data Structures
+	Linked Lists and Their Variants
+		Basic Linked Lists
+		Sorted Linked Lists
+	Stacks
+		Linked Lists 
+		Arrays
+	Queues and Their Variants
+		Basic Queues
+		Deques (Double-Ended Queues)
+		Priority Queues (via Linked Lists and Arrays)
+
+Algorithmic Techniques
+	Searching in an Unsorted Array
+	Recursion
+	Binary Search
+	Divide and Conquer Algorithms
+
+Sorting Algorithms
+	Selection Sort
+	Insertion Sort
+	Bubble Sort
+	Merge Sort
+	Quick Sort
+	Heap Sort
+	Shell Sort
+	Radix Sort
+	Bucket Sort
+
+Advanced Data Structures and Algorithms
+	Trees and Tree Traversals
+		Binary Search Trees (BSTs)
+		Heaps
+		M-Way Trees
+		Balanced Trees
+	Graphs and Graph Traversal Techniques
+		Breadth-First Search (BFS)
+		Depth-First Search (DFS)
+	Shortest Path Algorithms
